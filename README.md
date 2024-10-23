@@ -7,8 +7,8 @@ fetch_datalake is a  solution designed to extract, process, and manage csv datas
 Clone the Repository:
 
     ```bash
-    git clone https://github.com/your-username/data-lake-fetcher.git
-    cd data-lake-fetcher
+    git clone https://github.com/khadayatbibek/fetch_datalake.git
+    cd fetch_datalake
     ```
 
 Install Dependencies: Use pip to install the required dependencies:
